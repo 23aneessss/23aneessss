@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Anees&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descAlign=50&descSize=20&descColor=cccccc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Aness&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descAlign=50&descSize=20&descColor=cccccc"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A960EE&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Anees+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;APIs+%7C+UIs+%7C+Cross-platform+Apps;Always+building%2C+always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A960EE&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Aness+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;APIs+%7C+UIs+%7C+Cross-platform+Apps;Always+building%2C+always+learning)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,10 +27,10 @@ I'm a versatile developer who loves building robust backend architectures, dynam
 
 ### 🚀 What I'm Up To
 
-- 🔭 Working on: **[Insert your current main project here]**
+- 🔭 Working on: **Smart Medical Office**
 - 🌱 Diving into: **Microservices, Advanced Animations & Cloud**
 - 💬 Ask me about: **TypeScript, Python APIs, Mobile Dev**
-- 📫 Reach me: **[Add your email here]**
+- 📫 Reach me: **oa_bouziani@esi.dz**
 
 </td>
 </tr>

@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=1000&pause=400&color=00FF41&background=0D0F1E&multiline=true&repeat=false&width=520&height=220&lines=%3E+player.exe+--load+aness;+;name:+Aness+Bouziani;+;class:+Full-Stack+%26+Mobile+Dev;+;origin:+Algeria+%C2%B7+ESI+Algiers;+;quest:+Smart+Medical+Office;+;learning:+Microservices+%C2%B7+Machine+Learning+%C2%B7+Cloud;+;contact:+oa_bouziani%40esi.dz;+;status:+READY+TO+COLLABORATE+%E2%96%BA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=1000&pause=200&color=00FF41&background=0D0F1E&multiline=true&repeat=false&width=520&height=220&lines=%3E+player.exe+--load+aness;+;name:+Aness+Bouziani;+;class:+Full-Stack+%26+Mobile+Dev;+;origin:+Algeria+%C2%B7+ESI+Algiers;+;quest:+Smart+Medical+Office;+;learning:+Microservices+%C2%B7+Machine+Learning+%C2%B7+Cloud;+;contact:+oa_bouziani%40esi.dz;+;status:+READY+TO+COLLABORATE+%E2%96%BA" />
 </div>
 
 <br/>

@@ -1,7 +1,6 @@
 <div align="center">
 
 [![name](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=36&pause=9999999&color=FFEC27&center=true&vCenter=true&width=750&height=100&lines=ANESS+BOUZIANI)](https://github.com/23aneessss)
-
 [![subtitle](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=2000&color=FF77A8&center=true&vCenter=true&random=false&width=700&height=55&lines=FULL-STACK+%26+MOBILE+DEVELOPER;BUILDING+SMART+MEDICAL+OFFICE...;ALWAYS+CODING%2C+NEVER+STOPPING+%E2%96%BA)](https://github.com/23aneessss)
 
 <img src="https://komarev.com/ghpvc/?username=23aneessss&color=ffec27&style=flat-square&label=PROFILE+VIEWS" />

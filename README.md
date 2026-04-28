@@ -28,7 +28,6 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,go,swift,dart,html,css&perline=10&theme=dark" />
 
-<br/><br/>
 
 `BACKEND`
 
@@ -37,11 +36,6 @@
 `FRONTEND & MOBILE`
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,swift&perline=4&theme=dark" />
-
-<br/>
-<sub><code>+ React Native · SwiftUI</code></sub>
-
-<br/><br/>
 
 `DEVOPS & TOOLS`
 

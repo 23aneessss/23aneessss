@@ -1,131 +1,125 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Aness&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descAlign=50&descSize=20&descColor=cccccc"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A960EE&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Aness+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;APIs+%7C+UIs+%7C+Cross-platform+Apps;Always+building%2C+always+learning)](https://git.io/typing-svg)
+[![name](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=36&pause=9999999&color=FFEC27&center=true&vCenter=true&width=750&height=100&lines=ANESS+BOUZIANI)](https://github.com/23aneessss)
 
-<br/>
+[![subtitle](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=2000&color=FF77A8&center=true&vCenter=true&random=false&width=700&height=55&lines=FULL-STACK+%26+MOBILE+DEVELOPER;BUILDING+SMART+MEDICAL+OFFICE...;ALWAYS+CODING%2C+NEVER+STOPPING+%E2%96%BA)](https://github.com/23aneessss)
 
-<a href="https://github.com/23aneessss">
-  <img src="https://komarev.com/ghpvc/?username=23aneessss&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=23aneessss&color=ffec27&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ▶  PLAYER . . .  ANESS BOUZIANI                               ║
+║   ▶  CLASS  . . .  FULL-STACK & MOBILE DEVELOPER                ║
+║                                                                  ║
+║   ▶  ACTIVE QUEST  SMART MEDICAL OFFICE                         ║
+║   ▶  EXPLORING . . MICROSERVICES · ANIMATIONS · CLOUD           ║
+║   ▶  SKILLS  . . . TYPESCRIPT · PYTHON APIs · MOBILE DEV        ║
+║   ▶  CONTACT . . . OA_BOUZIANI@ESI.DZ                           ║
+║                                                                  ║
+║   EXP  ████████████████████████████████████████████  MAX        ║
+║                                                                  ║
+║              ══  [ PRESS ► START TO COLLABORATE ]  ══           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-### 👨‍💻 About Me
-
-I'm a versatile developer who loves building robust backend architectures, dynamic frontends, and cross-platform mobile applications. Whether it's crafting APIs, designing intuitive UIs, or deploying containerized apps, I enjoy working across the entire stack.
-
-</td>
-<td width="45%" valign="top">
-
-### 🚀 What I'm Up To
-
-- 🔭 Working on: **Smart Medical Office**
-- 🌱 Diving into: **Microservices, Advanced Animations & Cloud**
-- 💬 Ask me about: **TypeScript, Python APIs, Mobile Dev**
-- 📫 Reach me: **oa_bouziani@esi.dz**
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-## 🛠️ Tech Arsenal
+<div align="center">
+<h2>▸ SKILL TREE</h2>
+</div>
 
 <div align="center">
 
-**💻 Languages**
+`LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,go,swift,dart,html,css&perline=10&theme=dark" />
 
-<br/><br/>
+<br/>
 
-**⚙️ Backend & APIs**
+`BACKEND & APIs`
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask&perline=6&theme=dark" />
 
-<br/>
-
+&nbsp;
 <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-**📱 Frontend & Mobile**
+`FRONTEND & MOBILE`
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=5&theme=dark" />
 
-<br/>
-
+&nbsp;
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-**🛠 DevOps & Tools**
+`DEVOPS & TOOLS`
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma&perline=5&theme=dark" />
 
-<br/>
-
+&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+<h2>▸ STATS & ACTIVITY</h2>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23aneessss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23aneessss&theme=tokyonight&hide_border=true&background=0D1117&ring=A960EE&fire=A960EE&currStreakLabel=A960EE" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=23aneessss&show_icons=true&hide_border=true&bg_color=0d0f1e&title_color=ffec27&icon_color=ff77a8&text_color=c0cbdc" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=23aneessss&hide_border=true&background=0d0f1e&ring=ffec27&fire=ff77a8&currStreakLabel=ffec27&sideLabels=c0cbdc&dates=c0cbdc&sideNums=ffffff&currStreakNum=ffffff" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23aneessss&layout=compact&hide_border=true&bg_color=0d0f1e&title_color=ffec27&text_color=c0cbdc" width="55%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=23aneessss&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23aneessss&hide_border=true&bg_color=0d0f1e&color=ffec27&line=ff77a8&point=ffffff&title_color=ffec27" />
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23aneessss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE" alt="Top Languages" width="55%" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23aneessss&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23aneessss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A960EE&line=A960EE&point=ffffff" alt="Contribution Graph" />
-</div>
-
 ---
 
 <div align="center">
+<h2>▸ CONNECT</h2>
+</div>
 
-### 🤝 Let's Connect
+<div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://your-portfolio-website.com">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
-j
+[![footer](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&pause=9999999&color=3B3B5C&center=true&vCenter=true&width=400&height=30&lines=GAME+OVER+...+OR+IS+IT+%3F)](https://github.com/23aneessss)
+
+</div>

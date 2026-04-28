@@ -35,30 +35,22 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask&perline=6&theme=dark" />
 
 <br/>
-
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
+<sub><code>+ tRPC · Hono</code></sub>
 
 <br/><br/>
 
 `FRONTEND & MOBILE`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,swift&perline=4&theme=dark" />
 
 <br/>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white" />
+<sub><code>+ React Native · SwiftUI</code></sub>
 
 <br/><br/>
 
 `DEVOPS & TOOLS`
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma&perline=5&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma,ai&perline=6&theme=dark" />
 
 </div>
 

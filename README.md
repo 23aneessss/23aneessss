@@ -34,11 +34,6 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask&perline=6&theme=dark" />
 
-<br/>
-<sub><code>+ tRPC · Hono</code></sub>
-
-<br/><br/>
-
 `FRONTEND & MOBILE`
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,swift&perline=4&theme=dark" />

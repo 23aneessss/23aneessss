@@ -11,67 +11,62 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ▶  PLAYER . . .  ANESS BOUZIANI                               ║
-║   ▶  CLASS  . . .  FULL-STACK & MOBILE DEVELOPER                ║
-║                                                                  ║
-║   ▶  ACTIVE QUEST  SMART MEDICAL OFFICE                         ║
-║   ▶  EXPLORING . . MICROSERVICES · ANIMATIONS · CLOUD           ║
-║   ▶  SKILLS  . . . TYPESCRIPT · PYTHON APIs · MOBILE DEV        ║
-║   ▶  CONTACT . . . OA_BOUZIANI@ESI.DZ                           ║
-║                                                                  ║
-║   EXP  ████████████████████████████████████████████  MAX        ║
-║                                                                  ║
-║              ══  [ PRESS ► START TO COLLABORATE ]  ══           ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                   ★  PLAYER  PROFILE  ★                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   NAME    ›  Aness Bouziani                                 ║
+║   CLASS   ›  Full-Stack & Mobile Developer                  ║
+║   ORIGIN  ›  Algeria  ·  ESI Algiers                        ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   QUEST   ›  Smart Medical Office                           ║
+║   LEARNS  ›  Microservices  ·  Animations  ·  Cloud         ║
+║   POWERS  ›  TypeScript  ·  Python APIs  ·  Mobile Dev      ║
+║   GUILD   ›  oa_bouziani@esi.dz                             ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   HP   ██████████████████████████████████████  ∞ / ∞       ║
+║   EXP  ██████████████████████████████████████    MAX        ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║           [ ◄◄  PRESS START TO COLLABORATE  ►► ]            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 ---
 
-<div align="center">
-<h2>▸ SKILL TREE</h2>
-</div>
-
-<div align="center">
-
-`LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,go,swift,dart,html,css&perline=10&theme=dark" />
-
-<br/>
-
-`BACKEND & APIs`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask&perline=6&theme=dark" />
-
-&nbsp;
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
-
-<br/>
-
-`FRONTEND & MOBILE`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=5&theme=dark" />
-
-&nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white" />
-
-<br/>
-
-`DEVOPS & TOOLS`
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma&perline=5&theme=dark" />
-
-&nbsp;
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
-
-</div>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ▓▓  SKILL INVENTORY  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  [ 38 items ] ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  LANG   ›  JS  ·  TypeScript  ·  Python  ·  C  ·  C++      ║
+║            Go  ·  Swift  ·  Dart  ·  HTML  ·  CSS           ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  BACK   ›  Node.js  ·  Express  ·  NestJS  ·  FastAPI       ║
+║            Django  ·  Flask  ·  tRPC  ·  Hono               ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  UI     ›  React  ·  Next.js  ·  React Native               ║
+║            Flutter  ·  SwiftUI                               ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  OPS    ›  Docker  ·  Linux  ·  Git  ·  GitHub              ║
+║            Figma  ·  Adobe Illustrator                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
@@ -114,7 +109,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://your-portfolio-website.com">
+<a href="https://anesbouziani.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 

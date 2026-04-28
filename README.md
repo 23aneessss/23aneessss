@@ -32,7 +32,7 @@
 
 `BACKEND`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,hono&perline=6&theme=dark" />
 
 <br/>
 <sub><code>+ tRPC · Hono</code></sub>

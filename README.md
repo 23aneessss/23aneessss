@@ -10,21 +10,9 @@
 
 <br/>
 
-```
-  ┌─────────────────────────────────────────────────────────┐
-  │  > player.exe --load aness                              │
-  │                                                         │
-  │    name      ·  Aness Bouziani                          │
-  │    class     ·  Full-Stack & Mobile Developer           │
-  │    origin    ·  Algeria · ESI Algiers                   │
-  │                                                         │
-  │    quest     ·  Smart Medical Office                    │
-  │    learning  ·  Microservices · Animations · Cloud      │
-  │    contact   ·  oa_bouziani@esi.dz                      │
-  │                                                         │
-  │    status    ·  [ READY TO COLLABORATE ► ]              │
-  └─────────────────────────────────────────────────────────┘
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000000&color=00FF41&background=0D0F1E&multiline=true&repeat=false&center=false&vCenter=false&width=680&height=350&lines=%3E+player.exe+--load+aness;;++name+++++%3A++Aness+Bouziani;++class++++%3A++Full-Stack+%26+Mobile+Dev;++origin+++%3A++Algeria+%C2%B7+ESI+Algiers;;++quest++++%3A++Smart+Medical+Office;++learning+%3A++Microservices+%C2%B7+Animations+%C2%B7+Cloud;++contact++%3A++oa_bouziani%40esi.dz;;++status+++%3A++READY+TO+COLLABORATE+%E2%96%BA" alt="player card" />
+</div>
 
 <br/>
 

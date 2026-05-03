@@ -79,7 +79,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+<a href="https://www.linkedin.com/in/bouziani-ahmed-anes-775741346/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;

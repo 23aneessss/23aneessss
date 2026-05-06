@@ -60,9 +60,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23aneessss&layout=compact&hide_border=true&bg_color=0d0f1e&title_color=ffec27&text_color=c0cbdc" width="55%" />
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=23aneessss&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4" />
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=23aneessss&hide_border=true&bg_color=0d0f1e&color=ffec27&line=ff77a8&point=ffffff&title_color=ffec27" />

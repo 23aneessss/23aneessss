@@ -25,7 +25,7 @@
 
 `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,go,swift,dart,html,css&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,java,cpp,swift,dart,html,css&perline=10&theme=dark" />
 
 
 `BACKEND`

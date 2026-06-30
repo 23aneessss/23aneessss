@@ -44,16 +44,6 @@
 
 <br/>
 
----
-
-<div align="center">
-
-[![stats](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=9999999&color=FFEC27&center=true&vCenter=true&width=500&height=45&lines=%E2%96%B8+STATS+%26+ACTIVITY)](https://github.com/23aneessss)
-
-<br/>
-
-
-
 <div align="center">
 
 [![connect](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=9999999&color=FFEC27&center=true&vCenter=true&width=350&height=45&lines=%E2%96%B8+CONNECT)](https://github.com/23aneessss)

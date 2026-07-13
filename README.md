@@ -1,65 +1,36 @@
-<div align="center">
+# Bouziani Ahmed Anes
 
-[![name](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=36&pause=9999999&color=FFEC27&center=true&vCenter=true&width=750&height=100&lines=ANESS+BOUZIANI)](https://github.com/23aneessss)
-[![subtitle](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=2000&color=FF77A8&center=true&vCenter=true&random=false&width=700&height=55&lines=FULL-STACK+%26+MOBILE+DEVELOPER;BUILDING+SMART+MEDICAL+OFFICE...;ALWAYS+CODING%2C+NEVER+STOPPING+%E2%96%BA)](https://github.com/23aneessss)
+### Full-Stack & Mobile Developer
 
-<img src="https://komarev.com/ghpvc/?username=23aneessss&color=ffec27&style=flat-square&label=PROFILE+VIEWS" />
+Third-year Computer Science student at the Higher National School of Computer Science (ESI Algiers).
 
-</div>
+I’m a curious and adaptable developer who enjoys solving problems and continuously improving. I’m passionate about technology and try to learn something new or deepen an existing skill every day.
 
-<br/>
+## Currently
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=1000&pause=200&color=00FF41&background=0D0F1E&multiline=true&repeat=false&width=520&height=220&lines=%3E+player.exe+--load+aness;+;name:+Aness+Bouziani;+;class:+Full-Stack+%26+Mobile+Dev;+;origin:+Algeria+%C2%B7+ESI+Algiers;+;quest:+Smart+Medical+Office;+;learning:+Microservices+%C2%B7+Machine+Learning+%C2%B7+Cloud;+;contact:+oa_bouziani%40esi.dz;+;status:+READY+TO+COLLABORATE+%E2%96%BA" />
-</div>
+- Exploring cloud services, deployment, and cybersecurity
+- Open to internships, collaborative projects, and open-source opportunities
 
-<br/>
+## Tech Stack
 
----
+**Languages**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,java,cpp,swift,dart,html,css&perline=10&theme=dark" alt="JavaScript, TypeScript, Python, C, Java, C++, Swift, Dart, HTML and CSS" />
 
-[![skills](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=9999999&color=FFEC27&center=true&vCenter=true&width=450&height=45&lines=%E2%96%B8+TECH+STACK)](https://github.com/23aneessss)
+**Backend**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask&perline=6&theme=dark" alt="Node.js, Express, NestJS, FastAPI, Django and Flask" />
 
-`LANGUAGES`
+**Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,java,cpp,swift,dart,html,css&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,swift&perline=4&theme=dark" alt="React, Next.js, Flutter and Swift" />
 
+**DevOps & Tools**
 
-`BACKEND`
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma,ai&perline=6&theme=dark" alt="Docker, Linux, Git, GitHub, Figma and AI" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask&perline=6&theme=dark" />
+## Connect
 
-`FRONTEND & MOBILE`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,swift&perline=4&theme=dark" />
-
-`DEVOPS & TOOLS`
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma,ai&perline=6&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![connect](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=9999999&color=FFEC27&center=true&vCenter=true&width=350&height=45&lines=%E2%96%B8+CONNECT)](https://github.com/23aneessss)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/bouziani-ahmed-anes-775741346/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://anessbouziani-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-
-<br/><br/>
-
-[![footer](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&pause=9999999&color=3B3B5C&center=true&vCenter=true&width=400&height=30&lines=GAME+OVER+...+OR+IS+IT+%3F)](https://github.com/23aneessss)
-
-</div>
+[Email](mailto:oa_bouziani@esi.dz) ·
+[LinkedIn](https://www.linkedin.com/in/bouziani-ahmed-anes-775741346/) ·
+[Portfolio](https://anessbouziani.vercel.app)

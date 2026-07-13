@@ -32,5 +32,5 @@ I’m a curious and adaptable developer who enjoys solving problems and continuo
 ## Connect
 
 [Email](mailto:oa_bouziani@esi.dz) ·
-[LinkedIn](https://www.linkedin.com/in/bouziani-ahmed-anes-775741346/) ·
+[LinkedIn](https://www.linkedin.com/in/bouziani-ahmed-anes/) ·
 [Portfolio](https://anessbouziani.vercel.app)

@@ -10,7 +10,7 @@ I’m a curious and adaptable developer who enjoys solving problems and turning 
 
 ## What I'm Focused On
 
--  Exploring **cloud services, deployment, and cybersecurity**
+-  Exploring **microservices, clouds, deployment, and cybersecurity**
 -  Open to **internships, collaborative projects, and open-source opportunities**
 -  Always interested in exchanging ideas and learning from other developers
 
